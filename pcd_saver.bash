@@ -1,0 +1,1 @@
+ros2 run occupied_mapping pcd_saver_node --ros-args -p topic_cloud_in:="/occupied_mapping_save_pcd" -p pcd_out:="/home/ld/Documents/point_cloud/cloud_out_temp.pcd"

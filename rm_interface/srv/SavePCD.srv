@@ -1,0 +1,5 @@
+string file_path #点云pcd保存路径
+---
+float32 memory_gb # 点云文件大小
+int32 point_num
+int32 result #点云保存路径

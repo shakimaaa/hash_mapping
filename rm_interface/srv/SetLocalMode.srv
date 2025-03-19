@@ -1,0 +1,5 @@
+float32 died_cost
+float32 safe_cost
+int32 safe_search_radius
+---
+bool result 
